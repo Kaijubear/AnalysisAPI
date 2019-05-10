@@ -2,6 +2,7 @@
 
 namespace AnalysisAPI.Models
 {
+    //model for daily overview display
     public class DailyOverview
     {
         public long Id { get; set; }
